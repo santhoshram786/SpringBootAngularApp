@@ -1,0 +1,10 @@
+UserProject is a backend project developed using Spring boot
+http://localhost:8080/users
+
+angularclient is frontend project developed using Angular
+http://localhost:4200/users
+
+In order to view the application, steps to follow
+
+Run the sprint boot application 
+Run the angular application
